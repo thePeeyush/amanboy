@@ -1,0 +1,22 @@
+body{
+   background-color:#CCF3EE;  /*  Inline> internal> external style */
+  }
+  hr{
+
+    border-style :none;
+    width: 8%;
+    border-top-style: dotted;  
+    border-width: 7px;
+    border-color: grey;
+
+  }
+  img{
+    height:200px;
+
+  }
+  h1{
+color :#66BFBF;
+  }
+  h2{
+color :#66BFBF;
+  }
